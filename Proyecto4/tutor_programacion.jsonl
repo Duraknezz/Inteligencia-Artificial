@@ -1,0 +1,192 @@
+{"prompt":"Explica qué es un IDE en programación.","response":"Un IDE es un entorno integrado que incluye editor, depurador y herramientas de compilación para facilitar el desarrollo de software."}
+{"prompt":"Qué es un bug en programación.","response":"Un bug es un error o comportamiento inesperado en el código que causa resultados incorrectos o fallos."}
+{"prompt":"Para qué sirve un depurador.","response":"Un depurador permite detener el programa, inspeccionar variables y ejecutar paso a paso para encontrar errores."}
+{"prompt":"Qué es una variable en programación.","response":"Una variable es un espacio nombrado que almacena un valor que puede cambiar durante la ejecución del programa."}
+{"prompt":"Diferencia entre variable y constante.","response":"Una variable puede cambiar su valor, una constante mantiene su valor fijo durante toda la ejecución."}
+{"prompt":"Explica el tipo de dato boolean.","response":"El tipo boolean almacena verdadero o falso, usado para condiciones lógicas."}
+{"prompt":"Qué es un operador lógico.","response":"Son símbolos que permiten combinar condiciones: AND, OR y NOT."}
+{"prompt":"Qué es un condicional if.","response":"Un if ejecuta un bloque de código solo si la condición es verdadera."}
+{"prompt":"Explica else if.","response":"else if permite evaluar condiciones adicionales cuando el if inicial no fue verdadero."}
+{"prompt":"Qué es un bucle for.","response":"Un for repite un bloque de código un número definido de veces según un contador."}
+{"prompt":"Para qué sirve un while.","response":"while repite un bloque mientras una condición sea verdadera."}
+{"prompt":"Qué es un bucle infinito.","response":"Es un ciclo que nunca termina porque la condición nunca pasa a ser falsa."}
+{"prompt":"Qué es una función en programación.","response":"Una función es un bloque reutilizable que ejecuta una tarea y puede recibir parámetros."}
+{"prompt":"Qué es un parámetro.","response":"Es un valor que una función recibe para trabajar con él internamente."}
+{"prompt":"Para qué sirve return.","response":"return especifica el valor que la función devuelve al finalizar."}
+{"prompt":"Qué es una función pura.","response":"Una función pura no modifica variables externas y siempre produce el mismo resultado para los mismos argumentos."}
+{"prompt":"Qué es una excepción.","response":"Es un evento que interrumpe el flujo normal del programa cuando ocurre un error."}
+{"prompt":"Para qué sirve try-catch.","response":"try contiene código que puede fallar y catch captura la excepción para manejarla sin crashear el programa."}
+{"prompt":"Qué es un archivo JSON.","response":"JSON es un formato de texto para almacenar datos estructurados mediante pares clave-valor."}
+{"prompt":"Qué es un archivo CSV.","response":"CSV almacena datos tabulares usando comas para separar columnas."}
+{"prompt":"Qué es un objeto en programación.","response":"Es una estructura que contiene atributos y funciones relacionadas, representando algo del mundo real."}
+{"prompt":"Define programación orientada a objetos.","response":"POO se basa en crear objetos que combinan datos y comportamientos para modelar sistemas complejos."}
+{"prompt":"Qué es una clase.","response":"Una clase es un plano o plantilla que define atributos y métodos para crear objetos."}
+{"prompt":"Qué es un método.","response":"Un método es una función definida dentro de una clase que describe un comportamiento."}
+{"prompt":"Qué es encapsulación.","response":"Encapsulación consiste en ocultar detalles internos de un objeto y exponer solo lo necesario mediante métodos públicos."}
+{"prompt":"Qué es herencia en POO.","response":"Herencia permite crear clases basadas en otras, reutilizando código y extendiendo funcionalidades."}
+{"prompt":"Qué es polimorfismo.","response":"Polimorfismo permite usar un mismo método con diferentes comportamientos según el objeto que lo implemente."}
+{"prompt":"Qué es una interfaz.","response":"Una interfaz define métodos que una clase debe implementar, sin incluir la lógica interna."}
+{"prompt":"Qué es un constructor.","response":"Un constructor es un método especial que se ejecuta automáticamente al crear un objeto."}
+{"prompt":"Qué es un módulo.","response":"Un módulo es un archivo que contiene funciones o clases reutilizables que pueden importarse en otros archivos."}
+{"prompt":"Para qué sirve import.","response":"import permite usar código definido en otros módulos sin volver a escribirlo."}
+{"prompt":"Qué es una librería.","response":"Una librería es un conjunto de módulos diseñados para resolver problemas comunes."}
+{"prompt":"Qué es un framework.","response":"Un framework es una estructura completa con reglas, librerías y patrones para construir aplicaciones grandes."}
+{"prompt":"Explica arquitectura cliente-servidor.","response":"El cliente solicita datos o servicios y el servidor los procesa y responde."}
+{"prompt":"Qué es una API.","response":"Una API es un conjunto de reglas que permite que dos programas se comuniquen entre sí."}
+{"prompt":"Qué es un endpoint.","response":"Un endpoint es una URL específica dentro de una API a la cual puedes enviar solicitudes."}
+{"prompt":"Qué es HTTP.","response":"HTTP es un protocolo que define cómo se envían solicitudes y respuestas entre cliente y servidor."}
+{"prompt":"Qué son los métodos GET y POST.","response":"GET solicita datos del servidor; POST envía datos para crear o procesar información."}
+{"prompt":"Qué es un status code 200.","response":"Significa que la solicitud se procesó correctamente."}
+{"prompt":"Qué significa el error 404.","response":"Indica que el recurso solicitado no existe en el servidor."}
+{"prompt":"Qué es el error 500.","response":"Error interno del servidor, normalmente causado por fallos en el código backend."}
+{"prompt":"Qué es JSON Web Token.","response":"JWT es un token codificado que permite autenticar usuarios sin guardar sesión en el servidor."}
+{"prompt":"Qué es autenticación.","response":"Es el proceso de verificar la identidad de un usuario."}
+{"prompt":"Qué es autorización.","response":"Determina lo que un usuario autenticado puede hacer dentro del sistema."}
+{"prompt":"Explica CRUD.","response":"CRUD son operaciones básicas sobre datos: Crear, Leer, Actualizar y Eliminar."}
+{"prompt":"Qué es un servidor web.","response":"Es un software que recibe solicitudes HTTP y entrega contenido como HTML o JSON."}
+{"prompt":"Qué es un proceso.","response":"Un proceso es un programa en ejecución que posee memoria propia."}
+{"prompt":"Qué es un hilo (thread).","response":"Un hilo es una unidad de ejecución dentro de un proceso que comparte su memoria."}
+{"prompt":"Qué es concurrencia.","response":"Concurrencia es la capacidad de ejecutar múltiples tareas de manera intercalada para mejorar rendimiento."}
+{"prompt":"Qué es paralelismo.","response":"Paralelismo ejecuta múltiples tareas al mismo tiempo usando múltiples núcleos físicos."}
+{"prompt":"Qué es una race condition.","response":"Es un error que ocurre cuando dos hilos acceden o modifican datos compartidos sin sincronización adecuada."}
+{"prompt":"Qué es un deadlock.","response":"Es una situación donde dos procesos se bloquean mutuamente esperando recursos que nunca se liberan."}
+{"prompt":"Qué es una expresión regular.","response":"Es un patrón que permite buscar y manipular texto de manera avanzada."}
+{"prompt":"Explica el patrón Singleton.","response":"Singleton garantiza que solo exista una instancia de una clase y que sea accesible globalmente."}
+{"prompt":"Explica el patrón Observer.","response":"Observer permite notificar automáticamente a múltiples objetos cuando otro objeto cambia su estado."}
+{"prompt":"Qué es un algoritmo hash.","response":"Es una función que convierte datos en un valor numérico único de longitud fija."}
+{"prompt":"Qué es un commit en Git.","response":"Un commit guarda un snapshot del proyecto en un punto específico del tiempo."}
+{"prompt":"Qué es git clone.","response":"Clona un repositorio remoto en tu máquina local."}
+{"prompt":"Qué es git push.","response":"Envía los commits locales al repositorio remoto."}
+{"prompt":"Qué es git pull.","response":"Descarga los nuevos cambios del repositorio remoto y los integra."}
+{"prompt":"Qué es git branch.","response":"Permite crear líneas de desarrollo independientes dentro del proyecto."}
+{"prompt":"Qué es merge en Git.","response":"Combina los cambios de una rama en otra."}
+{"prompt":"Qué es un conflicto en Git.","response":"Ocurre cuando dos ramas modifican la misma parte del código y Git no sabe cuál elegir."}
+{"prompt":"Qué es Docker.","response":"Docker permite ejecutar aplicaciones dentro de contenedores aislados y portátiles."}
+{"prompt":"Qué es una imagen de Docker.","response":"Una imagen es una plantilla que contiene todo lo necesario para ejecutar una aplicación dentro de un contenedor."}
+{"prompt":"Qué es un contenedor Docker.","response":"Es una instancia ejecutándose basada en una imagen, aislada del sistema host."}
+{"prompt":"Qué es un puerto en redes.","response":"Es un número que identifica un canal específico para comunicaciones entre aplicaciones."}
+{"prompt":"Qué es SQL.","response":"SQL es un lenguaje para gestionar bases de datos relacionales mediante consultas."}
+{"prompt":"Qué es una tabla en SQL.","response":"Es una estructura formada por filas y columnas que almacena datos relacionados."}
+{"prompt":"Qué es una clave primaria.","response":"Una clave primaria identifica de forma única cada fila en una tabla."}
+{"prompt":"Qué es una clave foránea.","response":"Una clave foránea conecta dos tablas relacionando una columna con la clave primaria de otra tabla."}
+{"prompt":"Qué hace SELECT.","response":"SELECT obtiene datos de una tabla."}
+{"prompt":"Qué hace INSERT.","response":"INSERT agrega una nueva fila dentro de una tabla."}
+{"prompt":"Qué hace UPDATE.","response":"UPDATE modifica datos existentes en una tabla."}
+{"prompt":"Qué hace DELETE.","response":"DELETE elimina filas de una tabla."}
+{"prompt":"Qué es una base de datos relacional.","response":"Es un sistema que organiza datos en tablas relacionadas mediante claves."}
+{"prompt":"Qué es NoSQL.","response":"NoSQL son bases de datos no relacionales diseñadas para almacenar datos flexibles como documentos JSON o grafos."}
+{"prompt":"Qué es MongoDB.","response":"MongoDB es una base de datos NoSQL que almacena documentos en formato similar a JSON."}
+{"prompt":"Qué es indexación en bases de datos.","response":"Un índice acelera la búsqueda en una tabla a costa de más espacio y tiempo de inserción."}
+{"prompt":"Qué es un endpoint REST.","response":"Es una URL de una API que sigue el estilo arquitectónico REST para acceder a recursos."}
+{"prompt":"Qué es GraphQL.","response":"GraphQL permite al cliente solicitar solo los datos que necesita mediante consultas personalizadas."}
+{"prompt":"Qué es un webhook.","response":"Un webhook es una notificación que un servidor envía automáticamente a otro cuando ocurre un evento."}
+{"prompt":"Qué es WebSocket.","response":"WebSocket permite comunicación en tiempo real y bidireccional entre cliente y servidor."}
+{"prompt":"Qué es un archivo .env.","response":"Contiene variables de entorno como claves o configuraciones que no deben publicarse."}
+{"prompt":"Qué es cifrado.","response":"Es convertir datos en un formato ilegible para protegerlos de accesos no autorizados."}
+{"prompt":"Qué es hashing en seguridad.","response":"Hashing convierte datos en un valor irreversible, útil para almacenar contraseñas de forma segura."}
+{"prompt":"Qué es un certificado SSL.","response":"SSL cifra la comunicación entre cliente y servidor para proteger datos transmitidos."}
+{"prompt":"Qué es un servidor DNS.","response":"DNS traduce nombres de dominio en direcciones IP comprensibles para las computadoras."}
+{"prompt":"Qué es una IP.","response":"Una IP identifica de manera única un dispositivo dentro de una red."}
+{"prompt":"Qué es un firewall.","response":"Un firewall filtra el tráfico de red permitiendo o bloqueando conexiones según reglas definidas."}
+{"prompt":"Qué es la nube (cloud computing).","response":"Cloud computing permite acceder a almacenamiento y aplicaciones remotas a través de internet."}
+{"prompt":"Qué es un backend.","response":"El backend es la parte del sistema que maneja la lógica, base de datos y operaciones no visibles al usuario."}
+{"prompt":"Qué es un frontend.","response":"El frontend es lo que ve e interactúa el usuario, generalmente construido con HTML, CSS y JavaScript."}
+{"prompt":"Qué es HTML.","response":"HTML es el lenguaje que define la estructura del contenido en páginas web."}
+{"prompt":"Qué es CSS.","response":"CSS define el diseño visual y estilos de una página web."}
+{"prompt":"Qué es JavaScript.","response":"JavaScript permite agregar interactividad a páginas web mediante programación del lado del cliente."}
+{"prompt":"Qué es una SPA.","response":"Una SPA es una aplicación web donde el contenido se carga dinámicamente sin recargar la página completa."}
+{"prompt":"Qué es React.","response":"React es una biblioteca de JavaScript para crear interfaces basadas en componentes."}
+{"prompt":"Qué es un componente en React.","response":"Un componente es una pieza reutilizable de UI que maneja su propio estado y renderizado."}
+{"prompt":"Qué es JSX.","response":"JSX es una sintaxis que mezcla JavaScript con HTML para definir interfaces de manera declarativa."}
+{"prompt":"Qué es el estado (state) en React.","response":"El estado es información interna del componente que puede cambiar y provocar un re-renderizado."}
+{"prompt":"Qué es un hook de React.","response":"Los hooks permiten usar estado y otras características sin escribir clases."}
+{"prompt":"Qué es useEffect.","response":"useEffect ejecuta lógica cuando el componente se monta, actualiza o desmonta."}
+{"prompt":"Qué es TypeScript.","response":"TypeScript es un superconjunto de JavaScript que agrega tipos estáticos y detección temprana de errores."}
+{"prompt":"Qué es un type en TypeScript.","response":"Un type define una estructura de datos personalizada para ayudar al autocompletado y validación del código."}
+{"prompt":"Qué es Python.","response":"Python es un lenguaje de programación interpretado, de alto nivel y sintaxis sencilla."}
+{"prompt":"Qué es pip.","response":"pip es el gestor oficial de paquetes de Python para instalar librerías externas."}
+{"prompt":"Qué es una lista en Python.","response":"Una lista es una colección ordenada y mutable de elementos, definida con corchetes []."}
+{"prompt":"Qué es un diccionario en Python.","response":"Es una estructura de clave-valor donde cada clave apunta a un valor asociado."}
+{"prompt":"Qué es lambda en Python.","response":"lambda define funciones anónimas cortas escritas en una sola línea."}
+{"prompt":"Qué es una API RESTful.","response":"Una API RESTful sigue principios como recursos, verbos HTTP y respuestas sin estado para comunicar cliente y servidor."}
+{"prompt":"Qué es un proceso batch.","response":"Un proceso batch ejecuta tareas programadas sin interacción del usuario, normalmente de forma periódica."}
+{"prompt":"Qué es un log.","response":"Un log registra eventos del programa para diagnóstico y auditoría."}
+{"prompt":"Qué es escalabilidad.","response":"Es la capacidad de un sistema de manejar más carga agregando recursos sin perder rendimiento."}
+{"prompt":"Qué es carga horizontal.","response":"Escalamiento horizontal consiste en agregar más máquinas para repartir la carga."}
+{"prompt":"Qué es caché.","response":"La caché guarda datos temporales para acelerar el acceso y reducir consultas costosas."}
+{"prompt":"Qué es un balanceador de carga.","response":"Distribuye el tráfico entre múltiples servidores para mejorar rendimiento y disponibilidad."}
+{"prompt":"Qué es un ataque DDoS.","response":"Un DDoS satura un servidor con tráfico excesivo para volverlo inoperable."}
+{"prompt":"Qué es un token de acceso.","response":"Es una credencial temporal que permite a un usuario interactuar con una API autenticada."}
+{"prompt":"Qué es OAuth.","response":"OAuth es un protocolo que permite autenticación delegada sin compartir contraseñas."}
+{"prompt":"Qué es una cola de mensajes.","response":"Una cola permite enviar tareas entre procesos de manera asincrónica para mejorar rendimiento."}
+{"prompt":"Qué es RabbitMQ.","response":"RabbitMQ es un broker de mensajes que permite comunicación asíncrona entre servicios."}
+{"prompt":"Qué es Kafka.","response":"Kafka es una plataforma distribuida para manejar flujos de datos masivos en tiempo real."}
+{"prompt":"Qué es IA.","response":"IA es la rama de la informática que desarrolla sistemas capaces de realizar tareas que normalmente requieren inteligencia humana."}
+{"prompt":"Qué es machine learning.","response":"ML es una técnica donde modelos aprenden patrones a partir de datos sin ser programados explícitamente para cada tarea."}
+{"prompt":"Qué es deep learning.","response":"Deep Learning utiliza redes neuronales profundas para aprender representaciones complejas de datos."}
+{"prompt":"Qué es un dataset.","response":"Un dataset es un conjunto de datos utilizado para entrenar, validar o probar un modelo de aprendizaje automático."}
+{"prompt":"Qué es overfitting.","response":"Overfitting ocurre cuando un modelo aprende demasiado los datos de entrenamiento y no generaliza bien a datos nuevos."}
+{"prompt":"Qué es underfitting.","response":"Underfitting es cuando el modelo es demasiado simple para capturar los patrones de los datos."}
+{"prompt":"Qué es una red neuronal.","response":"Una red neuronal es un modelo inspirado en el cerebro humano que procesa información mediante capas de neuronas artificiales."}
+{"prompt":"Qué es batch size.","response":"Batch size es la cantidad de muestras procesadas juntas antes de actualizar los pesos del modelo."}
+{"prompt":"Qué es una época (epoch).","response":"Una época es una pasada completa del dataset a través del modelo durante el entrenamiento."}
+{"prompt":"Qué es gradiente descendente.","response":"Es un algoritmo que ajusta los pesos del modelo reduciendo el error paso a paso en dirección del gradiente."}
+{"prompt":"Qué es una función de pérdida.","response":"La función de pérdida mide qué tan lejos están las predicciones del modelo respecto a los valores reales."}
+{"prompt":"Qué es precisión (accuracy).","response":"Accuracy mide el porcentaje de predicciones correctas sobre el total de ejemplos."}
+{"prompt":"Qué es un modelo supervisado.","response":"En aprendizaje supervisado los datos incluyen las respuestas correctas llamadas etiquetas."}
+{"prompt":"Qué es un modelo no supervisado.","response":"En aprendizaje no supervisado los datos no tienen etiquetas y el modelo busca patrones por sí mismo."}
+{"prompt":"Qué es clustering.","response":"Clustering agrupa datos similares en categorías sin etiquetas predeterminadas."}
+{"prompt":"Qué es regresión lineal.","response":"Regresión lineal modela la relación entre variables usando una línea recta para predecir valores."}
+{"prompt":"Qué es clasificación.","response":"Clasificación asigna una etiqueta o categoría a cada ejemplo según sus características."}
+{"prompt":"Qué es validación cruzada.","response":"Cross-validation divide los datos en múltiples subconjuntos para evaluar el modelo más estrictamente."}
+{"prompt":"Dame un ejemplo de un ciclo For en Python que imprima números pares.","response":"for i in range(0, 10, 2):\n    print(i)\nEsto imprime: 0, 2, 4, 6, 8."}
+{"prompt":"Qué es un algoritmo.","response":"Un algoritmo es una secuencia finita de pasos para resolver un problema."}
+{"prompt":"Qué es complejidad temporal.","response":"La complejidad temporal mide cuánto tiempo tarda un algoritmo según el tamaño de la entrada."}
+{"prompt":"Qué es complejidad espacial.","response":"La complejidad espacial mide cuánta memoria usa un algoritmo durante su ejecución."}
+{"prompt":"Qué es Big O.","response":"Big O es una notación que describe el comportamiento del tiempo o espacio de un algoritmo."}
+{"prompt":"Qué es un arreglo.","response":"Un arreglo es una estructura que almacena elementos del mismo tipo en posiciones contiguas."}
+{"prompt":"Qué es una lista enlazada.","response":"Una lista enlazada es una estructura donde cada nodo apunta al siguiente elemento."}
+{"prompt":"Qué es una pila.","response":"Una pila es una estructura LIFO donde el último elemento en entrar es el primero en salir."}
+{"prompt":"Qué es una cola.","response":"Una cola es una estructura FIFO donde el primero en entrar es el primero en salir."}
+{"prompt":"Qué es recursión.","response":"Recursión es cuando una función se llama a sí misma para resolver un problema."}
+{"prompt":"Qué es un caso base.","response":"El caso base es la condición que detiene una llamada recursiva."}
+{"prompt":"Qué es búsqueda lineal.","response":"La búsqueda lineal recorre los elementos uno por uno hasta encontrar el objetivo."}
+{"prompt":"Qué es búsqueda binaria.","response":"La búsqueda binaria encuentra un elemento dividiendo repetidamente un arreglo ordenado."}
+{"prompt":"Qué es un árbol.","response":"Un árbol es una estructura jerárquica compuesta por nodos conectados."}
+{"prompt":"Qué es un árbol binario.","response":"Un árbol binario es un árbol donde cada nodo tiene como máximo dos hijos."}
+{"prompt":"Qué es un grafo.","response":"Un grafo es una estructura formada por nodos y aristas que los conectan."}
+{"prompt":"Qué es un nodo.","response":"Un nodo es una unidad básica que contiene datos dentro de una estructura."}
+{"prompt":"Qué es una arista.","response":"Una arista conecta dos nodos dentro de un grafo."}
+{"prompt":"Qué es DFS.","response":"DFS recorre un grafo explorando tan profundo como sea posible antes de retroceder."}
+{"prompt":"Qué es BFS.","response":"BFS recorre un grafo explorando primero los nodos más cercanos."}
+{"prompt":"Qué es un heap.","response":"Un heap es una estructura que mantiene el valor mínimo o máximo en la raíz."}
+{"prompt":"Qué es una cola de prioridad.","response":"Es una cola donde los elementos se atienden según su prioridad."}
+{"prompt":"Qué es sorting.","response":"Sorting es el proceso de ordenar elementos según un criterio."}
+{"prompt":"Qué es bubble sort.","response":"Bubble sort ordena intercambiando elementos adyacentes repetidamente."}
+{"prompt":"Qué es quicksort.","response":"Quicksort ordena dividiendo el arreglo usando un pivote."}
+{"prompt":"Qué es mergesort.","response":"Mergesort divide el arreglo y luego combina las partes ordenadas."}
+{"prompt":"Qué es un puntero.","response":"Un puntero almacena la dirección de memoria de otro valor."}
+{"prompt":"Qué es memoria RAM.","response":"La memoria RAM almacena datos temporales usados por los programas en ejecución."}
+{"prompt":"Qué es memoria caché.","response":"La memoria caché guarda datos de acceso frecuente para acelerar el procesamiento."}
+{"prompt":"Qué es un sistema operativo.","response":"Un sistema operativo gestiona el hardware y los recursos del sistema."}
+{"prompt":"Qué es un kernel.","response":"El kernel es el núcleo del sistema operativo que controla el hardware."}
+{"prompt":"Qué es virtualización.","response":"Virtualización permite ejecutar múltiples sistemas operativos en un mismo hardware."}
+{"prompt":"Qué es una máquina virtual.","response":"Una máquina virtual es un sistema operativo emulado por software."}
+{"prompt":"Qué es un contenedor.","response":"Un contenedor ejecuta aplicaciones aisladas compartiendo el mismo kernel."}
+{"prompt":"Qué es CI/CD.","response":"CI/CD automatiza la integración y despliegue continuo de software."}
+{"prompt":"Qué es testing.","response":"Testing es el proceso de verificar que el software funcione correctamente."}
+{"prompt":"Qué es una prueba unitaria.","response":"Una prueba unitaria valida el funcionamiento de una función específica."}
+{"prompt":"Qué es integración continua.","response":"Integración continua combina cambios de código frecuentemente para detectar errores temprano."}
+{"prompt":"Qué es refactorización.","response":"Refactorizar mejora el código sin cambiar su comportamiento."}
+{"prompt":"Qué es deuda técnica.","response":"La deuda técnica es el costo de soluciones rápidas mal diseñadas."}
+{"prompt":"Qué es un microservicio.","response":"Un microservicio es una aplicación dividida en servicios pequeños e independientes."}
+{"prompt":"Qué es latencia.","response":"Latencia es el tiempo que tarda una solicitud en recibir respuesta."}
+{"prompt":"Qué es throughput.","response":"Throughput mide cuántas solicitudes procesa un sistema en un tiempo dado."}
+{"prompt":"Qué es disponibilidad.","response":"Disponibilidad indica qué tan accesible está un sistema en el tiempo."}
+{"prompt":"Qué es tolerancia a fallos.","response":"Es la capacidad de un sistema para seguir funcionando ante errores."}
+{"prompt":"Qué es observabilidad.","response":"Observabilidad permite entender el estado interno de un sistema mediante métricas y logs."}
+{"prompt":"Qué es un stack trace.","response":"Un stack trace muestra la secuencia de llamadas que causaron un error."}
+{"prompt":"Qué es versionamiento semántico.","response":"Versionamiento semántico usa números para indicar cambios mayores, menores y parches."}
+{"prompt":"Qué es open source.","response":"Open source es software cuyo código fuente es público y modificable."}
+{"prompt":"Qué es licenciamiento de software.","response":"Define cómo puede usarse, modificarse y distribuirse un programa."}
+{"prompt":"Qué es un roadmap.","response":"Un roadmap es un plan que define la evolución futura de un producto."}

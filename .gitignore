@@ -1,0 +1,17 @@
+
+ia_env_310/
+__pycache__/
+*.h5
+*.pt
+
+
+Animals/
+sportimages/
+
+
+Proyecto4/qwen_tutor_algoritmos_v1/
+Proyecto4/qwen_tutor_algoritmos_v2/
+
+
+Deteccion_de_caras/Datos/
+Deteccion_de_caras/Emociones/
